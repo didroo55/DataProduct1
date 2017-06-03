@@ -1,1 +1,1 @@
-http://rpubs.com/didroo/pitchForApp
+https://didroo.shinyapps.io/LoanDetailCalculator/
